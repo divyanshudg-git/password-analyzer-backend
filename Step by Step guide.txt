@@ -1,0 +1,10 @@
+1. Run model_trainer.py -> It will run a model and create (mmmodel.pkl) file and 
+    save it in the file's directory.
+2. Run password_analyzer.py
+3. Run AdvancedPasswordAnalyzer.py
+4. Run password_classifier.py
+5. Run password_generator.py
+6. Run test_cases.py
+7. rockyou.txt -> This is a file containing 14 million passwords. 
+                This file have those password which is ever breached before or used.
+

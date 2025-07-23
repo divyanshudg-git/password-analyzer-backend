@@ -1,0 +1,14 @@
+1. https://visualstudio.microsoft.com/visual-cpp-build-tools/
+    Download and run the installer.
+    In the installer:
+        Select the "C++ build tools" workload.
+        Also check:
+            Windows 10 SDK (or Windows 11 if you are on that version)
+            MSVC v143 - VS 2022 C++ x64/x86 build tools
+            CMake and Windows C++ CMake tools for Windows
+        Click Install, and let it finish (it might take a few minutes).
+        
+2. pip install spacy
+3. python -m spacy download en_core_web_sm
+4. pip install pickle
+5. pip install scikit-learn
